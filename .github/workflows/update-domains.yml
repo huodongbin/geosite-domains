@@ -1,0 +1,56 @@
+name: Update Geosite Domains
+
+on:
+  schedule:
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-geosite-domains
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Checkout MetaCubeX meta-rules-dat
+        uses: actions/checkout@v4
+        with:
+          repository: MetaCubeX/meta-rules-dat
+          ref: sing
+          path: source
+          sparse-checkout: |
+            geo/geosite
+          sparse-checkout-cone-mode: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Extract domains
+        run: python scripts/extract_domains.py
+
+      - name: Remove source repository
+        run: rm -rf source
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A domains/
+
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+
+          git commit -m "chore: update geosite domains"
+          git push
