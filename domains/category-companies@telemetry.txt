@@ -1,0 +1,6 @@
+incoming.telemetry.mozilla.org
+incoming-telemetry.thunderbird.net
+copilot-telemetry-service.githubusercontent.com
+copilot-telemetry.githubusercontent.com
+cafe.github.com
+collector.github.com
