@@ -1,8 +1,8 @@
+download.visualstudio.microsoft.com
 crashlyticsreports-pa.googleapis.com
 firebase-settings.crashlytics.com
 update.crashlytics.com
 cdn.ampproject.org
-download.visualstudio.microsoft.com
 cdn.apple-mapkit.com
 cdn1.apple-mapkit.com
 cdn2.apple-mapkit.com
@@ -16,9 +16,9 @@ cdn-cn4.apple-mapkit.com
 microsoftreactor.cn
 microsoftreactor.com.cn
 reactorms.com.cn
+jetbrains.com.cn
+cdn.jetbrains.com
 researchkit.cn
 researchkit.com.cn
 swiftui.cn
 swiftui.com.cn
-jetbrains.com.cn
-cdn.jetbrains.com
