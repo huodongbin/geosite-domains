@@ -6,6 +6,7 @@ openaicomproductionae4b.blob.core.windows.net
 production-openaicom-storage.azureedge.net
 browser-intake-datadoghq.com
 o33249.ingest.sentry.io
+o33249.ingest.us.sentry.io
 openai.qualtrics.com
 oaiusercontent.com
 openai.com

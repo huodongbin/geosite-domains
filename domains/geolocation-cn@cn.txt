@@ -17,10 +17,6 @@ ntp2.tencent.com
 ntp3.tencent.com
 ntp4.tencent.com
 ntp5.tencent.com
-cn.pool.ntp.org
-ntp.neu.edu.cn
-ntp.ntsc.ac.cn
-ntp.org.cn
 cf-china.info
 cf-ns.com
 cf-ns.net
@@ -40,6 +36,10 @@ cloudflareperf.com
 cloudflareprod.com
 cloudflarestaging.com
 cloudflarestoragegw.com
+cn.pool.ntp.org
+ntp.neu.edu.cn
+ntp.ntsc.ac.cn
+ntp.org.cn
 a2z.org.cn
 amazonaws.cn
 amazonaws.com.cn
