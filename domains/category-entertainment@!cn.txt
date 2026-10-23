@@ -4,6 +4,7 @@ roovza-launches.appsflyersdk.com
 roovza.inapps.appsflyersdk.com
 roovza.launches.appsflyersdk.com
 roovza.skadsdk.appsflyersdk.com
+webnovel.com
 bytedapm.com
 muscdn.com
 musical.ly
@@ -34,4 +35,3 @@ tiktokcdn.com.akamaized.net
 tiktokcdn.com.edgesuite.net
 tiktokv.com.edgekey.net
 tiktokv.com.edgesuite.net
-webnovel.com
