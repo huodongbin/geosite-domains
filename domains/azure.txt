@@ -1,5 +1,7 @@
 azure.microsoft.com
 azuremarketplace.microsoft.com
+dc.applicationinsights.azure.com
+live.applicationinsights.azure.com
 azure
 aadrm.com
 azure-api.net
@@ -99,6 +101,7 @@ chinacloudapi.cn
 chinacloudapp.cn
 chinacloudsites.cn
 hdinsightservices.cn
+in.applicationinsights.azure.com
 management-azure-devices-provisioning.cn
 management-azure-devices.cn
 mcchcdn.com

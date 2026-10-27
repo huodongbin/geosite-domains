@@ -13,7 +13,9 @@ vscode-sync.trafficmanager.net
 vscode.blob.core.windows.net
 vscode.search.windows.net
 vsmarketplacebadge.apphb.com
+dc.services.visualstudio.com
 download.visualstudio.microsoft.com
+rt.services.visualstudio.com
 adaptivecards.io
 api-extractor.com
 apisof.net

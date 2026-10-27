@@ -1,4 +1,17 @@
+dc.applicationinsights.azure.com
+live.applicationinsights.azure.com
 copilot-telemetry-service.githubusercontent.com
 copilot-telemetry.githubusercontent.com
+dc.services.visualstudio.com
+rt.services.visualstudio.com
+applicationinsights.io
+applicationinsights.net
+aria.ms
+data.microsoft.com
+telemetry.microsoft.com
+nelreports.net
+browser.events.data.msn.cn
+browser.events.data.msn.com
+in.applicationinsights.azure.com
 cafe.github.com
 collector.github.com
