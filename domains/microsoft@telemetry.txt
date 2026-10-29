@@ -10,8 +10,8 @@ aria.ms
 data.microsoft.com
 telemetry.microsoft.com
 nelreports.net
-browser.events.data.msn.cn
-browser.events.data.msn.com
 in.applicationinsights.azure.com
 cafe.github.com
 collector.github.com
+browser.events.data.msn.cn
+browser.events.data.msn.com
