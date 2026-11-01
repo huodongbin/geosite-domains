@@ -13,6 +13,8 @@ cdn-cn3.apple-mapkit.com
 cdn-cn4.apple-mapkit.com
 download.visualstudio.microsoft.com
 cdn.ampproject.org
+jetbrains.com.cn
+cdn.jetbrains.com
 researchkit.cn
 researchkit.com.cn
 swiftui.cn
@@ -20,5 +22,3 @@ swiftui.com.cn
 microsoftreactor.cn
 microsoftreactor.com.cn
 reactorms.com.cn
-jetbrains.com.cn
-cdn.jetbrains.com
