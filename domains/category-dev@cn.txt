@@ -13,8 +13,6 @@ cdn-cn1.apple-mapkit.com
 cdn-cn2.apple-mapkit.com
 cdn-cn3.apple-mapkit.com
 cdn-cn4.apple-mapkit.com
-jetbrains.com.cn
-cdn.jetbrains.com
 microsoftreactor.cn
 microsoftreactor.com.cn
 reactorms.com.cn
@@ -22,3 +20,5 @@ researchkit.cn
 researchkit.com.cn
 swiftui.cn
 swiftui.com.cn
+jetbrains.com.cn
+cdn.jetbrains.com

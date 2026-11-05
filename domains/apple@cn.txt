@@ -162,6 +162,8 @@ weatherkit.apple.com
 www.apple.com
 www.apple.com.edgekey.net.globalredir.akadns.net
 xp.apple.com
+amp-api.podcasts.apple.com
+podcasts.apple.com
 amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 amp-api-edge-lb.itunes-apple.com.akadns.net
 aod-ssl.itunes.apple.com
@@ -217,8 +219,6 @@ cdn-cn1.apple-mapkit.com
 cdn-cn2.apple-mapkit.com
 cdn-cn3.apple-mapkit.com
 cdn-cn4.apple-mapkit.com
-amp-api.podcasts.apple.com
-podcasts.apple.com
 amp-api-edge.music.apple.com
 amp-api.music.apple.com
 js-cdn.music.apple.com
@@ -272,6 +272,13 @@ livephotos.com.cn
 xn--czrs0t4phtr3a.cn
 xn--fiqs8sxootzz.cn
 xn--ohq11k7pl25iyo8a.cn
+apple-icloud.cn
+appleicloud.cn
+icloud-apple.cn
+icloud-content.com.cn
+icloud.com.cn
+icloud.net.cn
+icloudapple.cn
 apple-itunes.cn
 itunes-apple.cn
 itunesapple.cn
@@ -288,10 +295,3 @@ beats4.cn
 beatsbydre.com
 beatsbydre.com.cn
 beatsep.cn
-apple-icloud.cn
-appleicloud.cn
-icloud-apple.cn
-icloud-content.com.cn
-icloud.com.cn
-icloud.net.cn
-icloudapple.cn
