@@ -2,11 +2,6 @@ alibaba.cdn.steampipe.steamcontent.com
 lv.queniujq.cn
 xz.pphimalayanrt.com
 gog.qtlglb.com
-leagueoflegends.cn
-lpl.com.cn
-yostar.cn
-xboxlive.cn
-bluearchive-cn.com
 legendofzelda.cn
 legendofzelda.com.cn
 miitomo.com.cn
@@ -19,6 +14,10 @@ xn--mts47c3w9b1qr.cn
 mariokart.cn
 mariokart.com.cn
 supermariobros.com.cn
+xboxlive.cn
+leagueoflegends.cn
+lpl.com.cn
+bluearchive-cn.com
 steamserver.net
 steamusercontent.com
 csgo.com.cn
@@ -35,3 +34,4 @@ steampowered.com.8686c.com
 steamstatic.com.8686c.com
 steamchina.com
 gstore.val.manlaxy.com
+yostar.cn
