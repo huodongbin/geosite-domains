@@ -1,3 +1,6 @@
+log-sdk.gifshow.com
+wlog.kuaishou.com
+apilog-web.acfun.cn
 log3-applog-hl.fqnovel.com
 log3-applog.fqnovel.com
 log5-applog-hl.fqnovel.com
@@ -6,9 +9,6 @@ rtlog3-applog-hl.fqnovel.com
 rtlog3-applog.fqnovel.com
 rtlog5-applog-hl.fqnovel.com
 rtlog5-applog.fqnovel.com
-log-sdk.gifshow.com
-wlog.kuaishou.com
-apilog-web.acfun.cn
 monitor.music.qq.com
 report.tencentmusic.com
 stat.y.qq.com

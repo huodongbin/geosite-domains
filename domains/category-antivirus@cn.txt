@@ -94,5 +94,5 @@ s16.upd.kaspersky.com
 s17.upd.kaspersky.com
 s18.upd.kaspersky.com
 s19.upd.kaspersky.com
-kaspersky.com.cn
 cn.eset.com
+kaspersky.com.cn
