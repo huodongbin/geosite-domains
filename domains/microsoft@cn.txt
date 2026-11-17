@@ -85,6 +85,7 @@ sharepoint.cn
 dcg.microsoft.com
 dl.delivery.mp.microsoft.com
 download.windowsupdate.com
+xboxlive.cn
 21vbc.com
 21vbluecloud.com
 21vbluecloud.net
@@ -186,4 +187,3 @@ microsoftreactor.com.cn
 reactorms.com.cn
 microsoftnews.cn
 msn.cn
-xboxlive.cn
