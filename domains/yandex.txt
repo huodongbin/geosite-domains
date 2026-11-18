@@ -18,7 +18,7 @@ pixel.yandex.com
 report.ap.yandex-net.ru
 yandex
 yandex.kg
-yandex.sx
+sourcecraft.dev
 beru.ru
 bookmate.ru
 cabconnect.org
@@ -42,7 +42,7 @@ rutaxi.ru
 shedevrum.ai
 shedevrum.com
 shedevrum.ru
-sourcecraft.dev
+xn--d1acpjx3f.xn--p1ai
 static-storage.net
 support-uber.com
 taxiaid.org
@@ -65,17 +65,17 @@ yandex.cloud
 yandex.com
 yandex.de
 yandex.ee
-yandex.eu
+yandex.jobs
 yandex.fi
 kinopoisk.ru
 yndx.net
 yandex.fr
 yandex.it
-yandex.jobs
-xn--d1acpjx3f.xn--p1ai
+yandex.eu
 berizaryad.ru
-yandex.lv
 yandex.kz
+yandex.lt
+yandex.lv
 yandex.market
 yandex.md
 yandex.mobi
@@ -90,7 +90,7 @@ yandex.pl
 yandex.pro
 yandex.ru
 yandex.st
-yandex.lt
+yandex.sx
 yandex.taxi
 yandex.tj
 yandex.tm
@@ -106,7 +106,6 @@ yandexdataschool.ru
 yandexgo.com
 yandexlyceum.ru
 yandexwebcache.net
-yandexwebcache.org
 yango-b2b.com
 yango-team.com
 yango-tech.com
