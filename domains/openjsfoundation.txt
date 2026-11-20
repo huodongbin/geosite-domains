@@ -1,6 +1,7 @@
 amp.akamaized.net
 cdn.ampproject.org
 openjsf.org
+nodejs.org
 amp.dev
 ampproject.com
 ampproject.net
@@ -10,4 +11,3 @@ jquery.com
 jquerymobile.com
 jqueryui.com
 mochajs.org
-nodejs.org
