@@ -22,6 +22,8 @@ primeday.cn
 primeday.com.cn
 yamaxun.cn
 z.cn
+amazonprimevideo.cn
+amazonprimevideo.com.cn
 a2z.org.cn
 amazonaws.cn
 amazonaws.com.cn
@@ -51,5 +53,3 @@ amzndns-cn.net
 kindle.cn
 kindleoasis.cn
 kindleoasis.com.cn
-amazonprimevideo.cn
-amazonprimevideo.com.cn
